@@ -1,10 +1,10 @@
 ## Data Cleaning and Standardization Project
-📌 Project Overview
+## Project Overview
 
 This project focuses on cleaning and standardizing a customer order dataset to prepare it for further analytics and reporting.
 The work was carried out using a combination of Python (Pandas) for automation and Excel for manual validation and corrections.
 
-🛠️ Tools & Technologies Used
+ ## Tools & Technologies Used
 
 Python 3.x
 
@@ -16,8 +16,8 @@ Microsoft Excel (for manual review, corrections, and validation)
 
 Git & GitHub (for version control and collaboration)
 
-📊 Data Cleaning & Transformation Steps
-🔧 Python-Based Cleaning
+## Data Cleaning & Transformation Steps
+## Python-Based Cleaning
 1️ Phone Number Normalization
 
 Removed unwanted characters (spaces, dashes, parentheses) using str.replace().
@@ -54,7 +54,7 @@ Duplicate Rows → Identified and removed duplicates where necessary.
 
 Other Null Values → Filled missing values appropriately or left them blank if no reliable source existed.
 
-✅ Final Verification
+## Final Verification
 
 Validated results using Excel filters, pivot tables, and summary checks.
 
