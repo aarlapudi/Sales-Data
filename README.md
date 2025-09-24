@@ -18,7 +18,7 @@ Git & GitHub (for version control and collaboration)
 
 ## Data Cleaning & Transformation Steps
 ## Python-Based Cleaning
-1️ Phone Number Normalization
+# 1️ Phone Number Normalization
 
 Removed unwanted characters (spaces, dashes, parentheses) using str.replace().
 
@@ -32,13 +32,13 @@ Converting to international format: +<CountryCode><Number>
 
 Converted phone numbers to string type to avoid Excel’s automatic number formatting (scientific notation).
 
-2️ Postal Code Fixes
+# 2️ Postal Code Fixes
 
 Identified and filled missing postal codes for cities like San Francisco and Los Angeles using a mapping dictionary.
 
 Ensured all postal codes were stored as strings to preserve leading zeros.
 
- Excel-Based Cleaning
+## Excel-Based Cleaning
 
 For all other columns, manual review and cleaning were done directly in Excel:
 
