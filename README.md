@@ -1,4 +1,4 @@
-🧹 Data Cleaning and Standardization Project
+## Data Cleaning and Standardization Project
 📌 Project Overview
 
 This project focuses on cleaning and standardizing a customer order dataset to prepare it for further analytics and reporting.
